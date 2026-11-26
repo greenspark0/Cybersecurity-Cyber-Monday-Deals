@@ -1,4 +1,4 @@
-# Cybersecurity Cyber Monday 2026 Deals
+# Cybersecurity Cyber Week 2026 Deals
 A list of cybersecurity tools and platforms with Cyber Monday deals.
 
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **End Date** |
