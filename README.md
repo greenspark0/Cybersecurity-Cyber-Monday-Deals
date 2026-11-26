@@ -1,4 +1,4 @@
-# Cybersecurity Cyber Week 2026 Deals
+# Cybersecurity Cyber Week 2026 Deal Tracker
 ![Cyber Week 2026 Deals Tracker](./banner.jpg)
 A list of cybersecurity tools and platforms with deals during Cyber Week (November 26 to December 6, 2026).
 
