@@ -4,6 +4,7 @@ A list of cybersecurity tools and platforms with Cyber Monday deals.
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **End Date** |
 |:-:|:-:|:-:|:-:|
 | [Anon.li](https://anon.li/pricing) | Open-source email aliases, end-to-end encrypted file sharing and encrypted forms | **40% OFF** all paid plans for 12 months · code `BLKFRI40` · card checkout | Dec 6, 2026 |
+| [Bitdefender](https://www.bitdefender.com/pages/consumer/en/new/lp-brand-4pr-individual-dlp-woav/) | AI-powered antivirus, threat prevention, detection, and response solutions, alongside privacy and identity protection tools. | **Up to 56% off** | Nov 30, 2026 |
 | [CloudBreach](https://cloudbreach.io/blackfriday) | Advanced offensive Azure & AWS Security Trainings and Certifications | **30% off** with code `BlackFriday26` | Dec 07, 2026
 | [CrowdStrike](https://www.crowdstrike.com/en-us/cyber-monday-cybersecurity-deals/) | Next-generation antivirus, endpoint detection and response (EDR), device control, and managed threat hunting. | **50% off** Falcon Go, Pro, or Enterprise | Dec 4, 2026 |
 | [EasyGuard VPN](https://easyguard.app/) | No-logs WireGuard VPN for Windows, iPhone, iPad, Android and Apple TV that gets round ISP blocks and throttling | **Up to 75% OFF** every plan · one-time payment, 10 devices · auto-applied | Nov 30, 2026 |
