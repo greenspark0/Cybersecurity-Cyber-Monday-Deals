@@ -1,14 +1,9 @@
-# Cybersecurity-Cyber-Monday-Deals
+# Cybersecurity Cyber Monday 2026 Deals
 A list of cybersecurity tools and platforms with Cyber Monday deals.
 
-* [Beagle Security](https://beaglesecurity.com/black-friday-sale) 35% off annual plans and monthly plans with code: `BFCMM25` Deal ends: 4th December
-Deal valid: 25th November - 4th December
-* [DeleteMe](https://joindeleteme.com/offers/partner/?_ef_offer_id=12#2-years) 30% off all Privacy Protection Plans, for new members only on USA consumer plans. Promo code: `BFCM30OFF25`
-* [Fing](https://www.fing.com/) Fing Premium yearly at 40% off (available after logging in).
-* [Hack The Box](https://www.hackthebox.com/blog/New-pro-labs-discount) 25% off until November 30th (23:59 EET).
-* [HAK5](https://shop.hak5.org/) Up to 58% off using the coupon code: `H4K3DNOV25`.
-* [NordPass](https://nordpass.com/black-friday/) Personal plan for $0.99.
-* [PortDroid](https://www.portdroid.net/black-friday-2025/) 50% off using the coupon code: `CYBER_2025`.
-* [Scarlet Shark](https://scarletshark.com/) 100% of all subscriptions for 4 months. Use the coupon code: `CyberMonday2025` at checkout.
-* [Threat.Zone](https://app.threat.zone/pricing) 35% Discount on All Plans with code: `HAPPYHOLIDAYS35` Deal ends: 31 December.
-* [Yubico](https://www.yubico.com/store/2025/black-friday-sale/) 30% off the YubiKey 5 NFC and 5C NFC.
+| **Name** | **Description**| **Deal details** (Discount & coupon code)| **End Date** |
+|:-:|:-:|:-:|:-:|
+| [anon.li](https://anon.li/pricing) | Open-source email aliases, end-to-end encrypted file sharing and encrypted forms | **40% OFF** all paid plans for 12 months · code `BLKFRI40` · card checkout | Dec 6, 2026 |
+| [EasyGuard VPN](https://easyguard.app/) | No-logs WireGuard VPN for Windows, iPhone, iPad, Android and Apple TV that gets round ISP blocks and throttling | **Up to 75% OFF** every plan · one-time payment, 10 devices · auto-applied | Nov 30, 2026 |
+| [PortDroid](https://portdroid.net/sale) | Android network toolkit: port scanner, ping, traceroute, DNS, WHOIS, LAN discovery, WiFi analyser and certificate inspection. | **50% OFF** Pro Lifetime, $9.49 → $4.69 USD · code `CYBER_2026` | Dec 4, 2026 |
+| [Scarlet Shark](https://scarletshark.com/promo/cybermonday2026.html) | Cyber threat intelligence platform for security analysts: investigate threats, monitor SaaS uptime and track malicious infrastructure and actors | **100% OFF** the Basic plan for 5 months - code `CyberMonday2026` auto-applied | Jan 30, 2027 |
